@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6aabfdacb8f62262",
+            "id": "e08a455a744f91a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "nicvctodo_karacters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "nicvctodo_karacters"
             }
           }
         ]
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8898f66b88bfae32",
@@ -160,13 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aabfdacb8f62262",
+  "active": "e08a455a744f91a7",
   "lastOpenFiles": [
+    "home.md",
+    "nicvctodo_karacters.md",
+    "maui-and-debug.md",
+    "Tabl.base",
+    "maui-and-cmds.md",
+    "Untitled.md",
+    "deploy-dsf.md",
+    "maui-ios-cmds.md",
     "README.md",
     "tsql-nbk.md",
-    "home.md",
-    "maui-and-cmds.md",
-    "maui-ios-cmds.md",
     "maui-ios.md",
     "bk.md",
     "git-base.md",

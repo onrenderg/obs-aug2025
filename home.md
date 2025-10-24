@@ -1,10 +1,11 @@
 [[bk]]
 
+[[maui-and-debug]]
 [[maui-ios-cmds]]
 [[maui-and-cmds]]
 [[git-base]]
 [[tsql-nbk]]
-
+[[nicvctodo_karacters]]
 
 https://obsidian-base-deploy.vercel.app/cers-finflow
 ---
@@ -27,6 +28,7 @@ https://dotnet.microsoft.com/download/dotnet/8.0
 dotnet --list-sdks
 
 ## vs-list
+* @id:ms-dotnettools.csdevkit
 * .net extension pack
 *  sql notebook
 * *sql tools
@@ -77,3 +79,9 @@ ALTER LOGIN sa ENABLE;
 Set or Reset the `sa` Password
 ALTER LOGIN sa WITH PASSWORD = 'sec12345';
 https://www.youtube.com/watch?v=p9mv2RP6Tck&t=32s
+
+            // await Navigation.PopAsync();  // Go back
+
+            // await Navigation.PushAsync(new MainPage());  // Push new page
+             MainPage = new NavigationPage(new ParichayPage());
+              MainPage = new ParichayPage();
