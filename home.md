@@ -1,13 +1,15 @@
 [[bk]]
-
+[[todooct24+]]
 [[maui-and-debug]]
 [[maui-ios-cmds]]
 [[maui-and-cmds]]
 [[git-base]]
 [[tsql-nbk]]
 [[nicvctodo_karacters]]
-
+[[nicvcPy]]
 https://obsidian-base-deploy.vercel.app/cers-finflow
+[[nv]]
+[[nvkrash]]
 ---
 
 # Setup 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be252ea6add6763d",
+        "id": "ba155385afebd97a",
         "type": "tabs",
         "children": [
           {
-            "id": "e08a455a744f91a7",
+            "id": "71587fbde76b76a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nicvctodo_karacters.md",
+                "file": "ssue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "nicvctodo_karacters"
+              "title": "ssue"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "krash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,14 +176,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e08a455a744f91a7",
+  "active": "71587fbde76b76a2",
   "lastOpenFiles": [
+    "ssue.md",
+    "cmd-and-deploy.md",
+    "mauistyl_port_prompt.md",
+    "nicvctodo_karactersv2.md",
+    "nicvcPy.md",
     "home.md",
+    "nvkrash.md",
+    "nv.md",
     "nicvctodo_karacters.md",
+    "todooct24+.md",
     "maui-and-debug.md",
     "Tabl.base",
     "maui-and-cmds.md",
-    "Untitled.md",
     "deploy-dsf.md",
     "maui-ios-cmds.md",
     "README.md",
