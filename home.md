@@ -9,6 +9,7 @@
 [[nicvcPy]]
 https://obsidian-base-deploy.vercel.app/cers-finflow
 [[nv]]
+[[oct]]
 [[nvkrash]]
 ---
 

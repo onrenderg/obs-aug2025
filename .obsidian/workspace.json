@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssue.md",
+                "file": "oct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ssue"
+              "title": "oct"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "krash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,20 +177,21 @@
   },
   "active": "71587fbde76b76a2",
   "lastOpenFiles": [
+    "home.md",
+    "oct.md",
+    "maui-and-cmds.md",
+    "deploy-dsf.md",
     "ssue.md",
     "cmd-and-deploy.md",
     "mauistyl_port_prompt.md",
     "nicvctodo_karactersv2.md",
     "nicvcPy.md",
-    "home.md",
     "nvkrash.md",
     "nv.md",
     "nicvctodo_karacters.md",
     "todooct24+.md",
     "maui-and-debug.md",
     "Tabl.base",
-    "maui-and-cmds.md",
-    "deploy-dsf.md",
     "maui-ios-cmds.md",
     "README.md",
     "tsql-nbk.md",
