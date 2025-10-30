@@ -9,7 +9,20 @@
 [[nicvcPy]]
 https://obsidian-base-deploy.vercel.app/cers-finflow
 [[nv]]
-[[oct]]
+[[oct29]]
+
+[[oct30]]
+debug.maui
+# Exception msg  str
+* body   & msg 
+using method DisplayAlert  popup  style 
+
+# skey vs 
+vs f10 skey  berakpoint line by line 
+
+
+
+
 [[nvkrash]]
 ---
 
