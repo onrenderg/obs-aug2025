@@ -11,10 +11,14 @@
             "id": "a87d5988db155033",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "oct31.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "oct31"
             }
           }
         ]
@@ -70,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8898f66b88bfae32",
@@ -161,11 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ba7dec61191d4bb",
+  "active": "a87d5988db155033",
   "lastOpenFiles": [
+    "home.md",
+    "oct31.md",
     "nicvctodo_karactersv2.md",
     "oct29.md",
-    "home.md",
     "oct30.md",
     "nicvcPy.md",
     "cmd-and-deploy.md",

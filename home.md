@@ -12,6 +12,7 @@ https://obsidian-base-deploy.vercel.app/cers-finflow
 [[oct29]]
 
 [[oct30]]
+[[oct31]]
 debug.maui
 # Exception msg  str
 * body   & msg 
