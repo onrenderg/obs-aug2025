@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c692594213f0ed9",
+        "id": "31639fd23db93084",
         "type": "tabs",
         "children": [
           {
-            "id": "56de139099c4b5de",
+            "id": "2665cdb1068d66f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,34 +161,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56de139099c4b5de",
+  "active": "2665cdb1068d66f2",
   "lastOpenFiles": [
-    "nicvcPy.md",
-    "nov1.md",
+    "advance_chart.md",
+    "nov2.md",
     "home.md",
-    "oct31.md",
+    "nov1.md",
+    "nv.md",
+    "oct30.md",
+    "Untitled.md",
     "Untitled 1.md",
+    "tsql-nbk.md",
+    "nicvcPy.md",
+    "oct31.md",
     "maui-and-cmds.md",
     "deploy-dsf.md",
     "cmd-and-deploy.md",
-    "Untitled.md",
     "nicvctodo_karactersv2.md",
     "oct29.md",
-    "oct30.md",
     "ssue.md",
     "mauistyl_port_prompt.md",
     "nvkrash.md",
-    "nv.md",
     "nicvctodo_karacters.md",
     "todooct24+.md",
     "maui-and-debug.md",
     "Tabl.base",
     "maui-ios-cmds.md",
     "README.md",
-    "tsql-nbk.md",
     "maui-ios.md",
-    "bk.md",
-    "git-base.md",
-    "advance_chart.md"
+    "bk.md"
   ]
 }
