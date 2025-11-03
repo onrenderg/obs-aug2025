@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b917ffef9197acb8",
+        "id": "4c692594213f0ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "a87d5988db155033",
+            "id": "56de139099c4b5de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "oct31.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "oct31"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "charact",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,17 +162,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a87d5988db155033",
+  "active": "56de139099c4b5de",
   "lastOpenFiles": [
+    "nicvcPy.md",
+    "nov1.md",
     "home.md",
     "oct31.md",
+    "Untitled 1.md",
+    "maui-and-cmds.md",
+    "deploy-dsf.md",
+    "cmd-and-deploy.md",
+    "Untitled.md",
     "nicvctodo_karactersv2.md",
     "oct29.md",
     "oct30.md",
-    "nicvcPy.md",
-    "cmd-and-deploy.md",
-    "maui-and-cmds.md",
-    "deploy-dsf.md",
     "ssue.md",
     "mauistyl_port_prompt.md",
     "nvkrash.md",
@@ -190,7 +190,6 @@
     "maui-ios.md",
     "bk.md",
     "git-base.md",
-    "advance_chart.md",
-    "bk-multi-timeframe-issue.md"
+    "advance_chart.md"
   ]
 }
