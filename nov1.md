@@ -134,3 +134,14 @@ winget install clink
 winget install --id Microsoft.PowerToys
 
 
+## Win sinstall 
+## reverse history search feature
+
+winget install clink
+clink autorun install
+clink autorun show
+clink autorun uninstall
+"C:\Program Files (x86)\clink\clink_x64.exe"
+echo %PATH%
+winget install --id Microsoft.PowerToys
+
