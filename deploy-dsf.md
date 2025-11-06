@@ -37,8 +37,26 @@ dotnet build -f net9.0-android
 # Build and Run on emulator/device
 dotnet build -t:Run -f net9.0-android
 
-# Build with specific device (get device ID from 'adb devices')
-dotnet build -t:Run -f net9.0-android -p:AndroidDevice="emulator-5554"
+# Build with specific device (get device ID from 'adb devices') 
+dotnet build -t:Run -f net9.0-android  -p:AndroidDevice="R9ZY40RDV0K"  -c Debug
+
+# Power shell
+
+@"
+{
+  "sdk": {
+    "version": "6.0.428",
+    "rollForward": "latestPatch"
+  }
+}
+"@ | Out-File -FilePath "global.json" -Encoding utf8
+dotnet workload install android
+
+
+# Xamrain 
+dotnet --list-sdks
+dotnet build -t:Run -f net6.0-android -p:AndroidDevice="R9ZY40RDV0K" -c Debug
+dotnet workload install android
 
 # Build Release APK
 dotnet build -f net9.0-android -c Release

@@ -15,6 +15,7 @@ https://obsidian-base-deploy.vercel.app/cers-finflow
 [[oct31]]
 [[nov1]]
 [[nov3]]
+[[nov6_cers]]
 debug.maui
 # Exception msg  str
 * body   & msg 
