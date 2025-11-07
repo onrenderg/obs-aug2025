@@ -121,33 +121,28 @@ In context of updated maui app  no refrence xam code
 
 All validation logic now matches the **production Xamarin version** exactly. The database constraint (resultdate + 30 days) is now properly enforced at the application level.
 
-🔧 Fix Build Errors - Make Code Work Again
 
-WHAT BROKE:
-❌ Code was trying to use controls that don't exist in MAUI version
-❌ Wrong way to access website URL
-
-WHAT WAS FIXED:
-✅ AddExpenditureDetailsPage.xaml.cs - Fixed date picker usage
-   (MAUI uses date picker differently than Xamarin)
-✅ DashboardPage.xaml.cs - Fixed website URL access
-
-WHY:
-The code was written for Xamarin (old) but needs to work in MAUI (new).
-Like trying to use an iPhone charger on an Android phone - similar but different!
-
-TECHNICAL DETAILS:
-- Removed Entry_expdate/Entry_paymentdate references (don't exist in AddExpenditure MAUI)
-- Changed validation to use date variables directly
-- Fixed HitServices.baseurl from instance to static access
-
-RESULT:
-✅ Code compiles without errors
-✅ Date validation still works correctly
-✅ All security rules remain active
 # win command 
 msinfo32
 
 
 
+
+{
+  "mcpServers": {
+    "browsermcp": {
+      "command": "npx",
+      "args": ["@browsermcp/mcp@latest"]
+    }
+  }
+}
+
+parthroyaal2024@gmail.com
+Barth123!
+
+{
+  "chrome-devtools": {
+    "command": "npx -y chrome-devtools-mcp@latest"
+  }
+}
 
