@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "889a620041c59c3c",
+            "id": "2fbc8e891341cc6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nov7.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nov7"
+              "title": "home"
+            }
+          },
+          {
+            "id": "58a7da642e357c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nov10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nov10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,11 +89,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8898f66b88bfae32",
@@ -164,26 +181,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "889a620041c59c3c",
+  "active": "58a7da642e357c35",
   "lastOpenFiles": [
-    "home.md",
+    "oct29.md",
+    "oct30.md",
     "nov7.md",
-    "nicvcPy.md",
     "nov6_cers.md",
+    "home.md",
+    "Untitled 1.md",
+    "nov10.md",
+    "nicvcPy.md",
     "deploy-dsf.md",
     "Untitled.md",
     "nov3.md",
     "nov1.md",
     "advance_chart.md",
     "nv.md",
-    "oct30.md",
-    "Untitled 1.md",
     "tsql-nbk.md",
     "oct31.md",
     "maui-and-cmds.md",
     "cmd-and-deploy.md",
     "nicvctodo_karactersv2.md",
-    "oct29.md",
     "ssue.md",
     "mauistyl_port_prompt.md",
     "nvkrash.md",
@@ -191,7 +209,6 @@
     "todooct24+.md",
     "maui-and-debug.md",
     "Tabl.base",
-    "maui-ios-cmds.md",
-    "README.md"
+    "maui-ios-cmds.md"
   ]
 }
