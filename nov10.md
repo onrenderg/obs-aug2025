@@ -1,4 +1,44 @@
 
+https://gac.gov.in/
+ ## ePraxmaan "404 - Page Not Found" error page.
+
+ https://authenticate.epramaan.gov.in/authwebservice/requestauth
+ /authwebservice/requestauth.
+
+
+
+```cs
+await App.Current.MainPage.DisplayAlert("Debug", "Response Status Code: X- Code reached here!", "OK");
+System.Diagnostics.Debug.WriteLine($"mgogo: {response}");
+```
+
+
+
+```python
+{
+  Connection: keep-alive
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:;
+  Date: Mon, 10 Nov 2025 10:26:32 GMT
+  Keep-Alive: timeout=60
+  Server: epramaan
+  X-Android-Received-Millis: 1762770392454
+  X-Android-Response-Source: NETWORK 404
+  X-Android-Selected-Protocol: http/1.1
+  X-Android-Sent-Millis: 1762770392376
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  X-Powered-By: 
+  X-XSS-Protection: 1; mode=block
+  Content-Language: en
+  Content-Length: 431
+  Content-Type: text/html; charset=utf-8
+}
+```
+
+ HttpResponseMessage response = await client.PostAsync("https://authenticate.epramaan.gov.in/authwebservice/requestauth", content);
+if ((int)response.StatusCode == 404)
+
+
 
 ```sql
 USE [DigitalNagrik]
