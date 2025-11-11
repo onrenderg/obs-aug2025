@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nov11_gaca.md",
+                "file": "maui-api-pro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nov11_gaca"
+              "title": "maui-api-pro"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "083225e016c95fbe",
   "lastOpenFiles": [
-    "home.md",
     "nov11_gaca.md",
+    "maui-api-pro.md",
+    "home.md",
     "nov11_maui.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -191,7 +192,6 @@
     "mauistyl_port_prompt.md",
     "nvkrash.md",
     "nicvctodo_karacters.md",
-    "todooct24+.md",
     "Tabl.base"
   ]
 }

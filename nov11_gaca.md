@@ -35,6 +35,7 @@ if ((int)response.StatusCode == 200)
 }
 
 
+[[maui-api-pro]]
 ## Summary of the Issue
 
 ### The Problem: **Double-Encoding BasicAuth Credentials**
