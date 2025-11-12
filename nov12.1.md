@@ -5,6 +5,7 @@
 
 
 
+[[js-pm]]
 # gen signed apk 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe" GACAppeal.Android\GACAppeal.Android.csproj -p:Configuration=Debug -p:AndroidUseSharedRuntime=false -p:EmbedAssembliesIntoApk=true -t:SignAndroidPackage
 # install  based on app id 
