@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb13582b2280f1c",
+        "id": "9a91a61153d0166b",
         "type": "tabs",
         "children": [
           {
-            "id": "083225e016c95fbe",
+            "id": "6376aa7c29f11da4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maui-api-pro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "maui-api-pro"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "await App.Current.MainPage.DisplayAlert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +70,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8898f66b88bfae32",
@@ -164,15 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "083225e016c95fbe",
+  "active": "6376aa7c29f11da4",
   "lastOpenFiles": [
-    "nov11_gaca.md",
+    "nov12.1.md",
+    "nov10.md",
     "maui-api-pro.md",
+    "cmd-and-deploy.md",
+    "nov11_gaca.md",
     "home.md",
     "nov11_maui.md",
-    "Untitled.md",
     "Untitled 1.md",
-    "nov10.md",
     "nov7.md",
     "oct29.md",
     "oct30.md",
@@ -186,7 +185,6 @@
     "tsql-nbk.md",
     "oct31.md",
     "maui-and-cmds.md",
-    "cmd-and-deploy.md",
     "nicvctodo_karactersv2.md",
     "ssue.md",
     "mauistyl_port_prompt.md",
